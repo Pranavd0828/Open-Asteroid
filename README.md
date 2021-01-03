@@ -28,5 +28,3 @@ Step 3: Trying different regression algorithms-
         - Neural Network
 
 Step 4: Selecting the best algorithm
-
-Extra: Since NASA's own estimator uses  𝐻 and  𝑎𝑙𝑏𝑒𝑑𝑜 to calculate the diameter, I decided to drop those to add difficulty and have less linearity in problem to solve.
