@@ -12,6 +12,7 @@ Step 1: Cleaning and preparing the data
 Step 2: Train-test splitting of the data, and then normalizing (standard) using the test dataframe.
 
 Step 3: Trying different regression algorithms-  
+        
         - Linear Regression 
         
         - Elastic Net 
