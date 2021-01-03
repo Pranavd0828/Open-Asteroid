@@ -13,11 +13,17 @@ Step 2: Train-test splitting of the data, and then normalizing (standard) using 
 
 Step 3: Trying different regression algorithms-  
         - Linear Regression 
+        
         - Elastic Net 
+        
         - Decision Tree 
+        
         - Random Forest
+        
         - XGBoost
+        
         - SVM
+        
         - Neural Network
 
 Step 4: Selecting the best algorithm
