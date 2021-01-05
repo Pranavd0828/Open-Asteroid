@@ -1,5 +1,6 @@
 # Open-Asteroid
-Dataset about the most updated asteroids along with their updated features
+Dataset about the most updated asteroids along with their updated features: https://www.kaggle.com/basu369victor/prediction-of-asteroid-diameter
+Visit the link, and refer to the updated asteroid report.
 
 Goal: 
 Getting the diameter of an asteroid from the other data given about that asteroid, in other words supervised regression with the target being  log(𝑑𝑖𝑎𝑚𝑒𝑡𝑒𝑟)
