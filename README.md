@@ -24,7 +24,7 @@ Step 3: Trying different regression algorithms-
         
         - XGBoost
         
-        - SVM (Linear)
+        - SVM (Linear and Non-Linear)
         
         - Neural Network
 
